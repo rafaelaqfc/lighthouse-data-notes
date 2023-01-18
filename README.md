@@ -1,2 +1,3 @@
-# lighthouse-data-notes
-This new repository is dedicated to practice python and data analysis. 
+## Rafaela Cordeiro Notes
+
+##### This new repository is dedicated to practice python and data analysis. 
