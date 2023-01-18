@@ -7,7 +7,7 @@
 
 ### Table of Contents
 * Python
-    * Unit 1
-    * Unit 2
-    * Unit 3
+    * [Unit 1](/Unit_1)
+        * [Day 1](/Unit_1/Day_1)
+
 
